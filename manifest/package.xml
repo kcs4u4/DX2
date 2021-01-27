@@ -4,12 +4,47 @@
     <types>
         <members>A0</members>
         <members>A0009</members>
+        <members>A12</members>
+        <members>A13</members>
+        <members>A15</members>
         <members>test</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>TestOrg</members>
+        <name>AuthProvider</name>
+    </types>
+    <types>
+        <members>Setup_test</members>
+        <name>Certificate</name>
+    </types>
+    <types>
+        <members>Audit_Test</members>
+        <name>ConnectedApp</name>
+    </types>
+    <types>
+        <members>AutoRABITlogo1</members>
+        <name>ContentAsset</name>
     </types>
     <types>
         <members>AR_User_Story</members>
         <members>CLJUL16PAN01</members>
         <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>AR_DX</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>TestingAccountMai</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>ABCJson</members>
+        <name>StaticResource</name>
+    </types>
+    <types>
+        <members>SetupTest</members>
+        <name>Territory2</name>
     </types>
 </Package>
