@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>49.0</version>
+    <types>
+        <members>A0</members>
+        <members>A0009</members>
+        <members>test</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AR_User_Story</members>
+        <members>CLJUL16PAN01</members>
+        <name>CustomLabel</name>
+    </types>
+</Package>
