@@ -13,8 +13,14 @@
             "package": "dreamhouse",
             "versionNumber": "3.0.0.NEXT",
             "versionName": "Winter '19"
+        },
+      {
+            "path": "Symphonyv1",
+            "default": false,
+            "package": "dreamhouse",
+            "versionNumber": "4.0.0.NEXT",
+            "versionName": "Winter '19"
         }
-      
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
@@ -22,6 +28,7 @@
     "packageAliases": {
         "dreamhouse": "0Ho1I000000XZDVSA4",
         "dreamhouse@2.0.0-4": "04t1I0000036seVQAQ",
-        "dreamhouse@3.0.0-5": "04t1I0000036u98QAA"
+        "dreamhouse@3.0.0-5": "04t1I0000036u98QAA",
+        "dreamhouse@4.0.0-5": "04t1I0000036u98QAA"
     }
 }
